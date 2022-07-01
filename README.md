@@ -28,12 +28,7 @@ They (clients) each get the weights of the current global model from the host, t
 
 ![image](https://user-images.githubusercontent.com/91736056/176937589-78da6e24-8320-4566-af34-6254193ea7d8.png)
 
-The above equation estimates each client's weight parameters based on the loss
-values reported for each piece of data they trained with. Later, each of those factors is
-scaled and added up component-by-component on the left. The quesdo code is
-available below.
-
-![image](https://user-images.githubusercontent.com/91736056/176937714-b806d6ca-d570-4399-ba23-8eb74718c7ca.png)
+The above equation estimates each client's weight parameters based on the loss values reported for each piece of data they trained with. Later, each of those factors is scaled and added up component-by-component on the left. 
 
 Unlike conventional techniques unified learning includes every one of the information stockpiling and handling exercises on the PC and takes out the
 requirement for distributed storage administrations. This breaking down of AI from portable distributed storage administrations permits the utilization of nearby models on cell phones to make expectations by taking models to the cloud. 
