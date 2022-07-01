@@ -1,4 +1,4 @@
-# AI-Smart-Agriculture-with-On-Board-Processing
+# AI-Based-Smart-Agriculture-with-On-Board-Processing
 # (Distributed Machine Learning for Crop Weed Detection through Federated Learning and Convolutional Neural Networks)
 ## Objective:
 
