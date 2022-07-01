@@ -81,7 +81,16 @@ Following are the confusions matrices and Global Losses for the model with compl
 The preceding analysis can be applied to our investigations in order to create an optimal weed identification system. By doing trials on sensor data, we can train and
 fine-tune our learning parameters to improve accuracy and repeatability. In addition, we can derive numerical conclusions that allow us to employ an algorithm or activation function that is more efficient than models that may be computationally more expensive. The developed formulation can be used to compute system parameters. Distributed Machine Learning can be implemented for Crop Weed Detection through Federated Learning and Convoluted Neural Networks after considering all pitfalls and advantages.
 
+## Done by:
+. Kashish Agrawal (2018A3PS0685H) 
 
+. Swetha Mamidipoodi (2018A4PS0042H) 
+
+. Shreyash Gupta (2018AAPS0444H)
+
+. Rithika Chavan (2019A3PS0370H)
+
+Under the supervision of Dr. Nikumani Chaudhary (CS Dept. , BITS Pilani - Hyderabad Campus).
 
 
 
